@@ -1,0 +1,2 @@
+# Kaggle-Titanic-Competition
+Titanic: Machine Learning from Disaster is a famous Kaggle competition in which participants are asked to build machine learning models to predict if a passenger will survive or not. It is a great resource for practicing data analysis skills for self-learning students like myself. In this notebook, I present how I handle the dataset and eventually build a model with a testing dataset prediction accuracy of 78.7%.
